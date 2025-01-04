@@ -1,5 +1,5 @@
 // Created by Danielle Bagaforo Meer
-// Let's Connect : https://www.linkedin.com/in/algorexph/
+// Let's Connect : https://www.linkedin.com/in/jandiaz/
 import Image from 'next/image';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
