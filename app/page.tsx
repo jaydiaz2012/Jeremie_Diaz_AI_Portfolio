@@ -105,23 +105,23 @@ const projects = [
   { 
     title: "SalesX AI", 
     image: "https://github.com/jaydiaz2012/Jeremie_Diaz_AI_Portfolio/blob/main/images/austin-distel-goFBjlQiZFU-unsplash.jpg",
-    problem: "Inefficient stock management leading to lost sales, excess inventory, and stock issues: 41.5%",
-    solution: "Developed an inventory optimization tool using machine learning to forecast demand and optimize stock levels, resulting in a 35% reduction in stockouts and a 40% decrease in holding costs.",
-    link : "http://github.com"
+    problem: "Businesses often struggle to make accurate sales forecasts, leading to inefficient planning and missed growth opportunities. Analyzing historical sales data and predicting future trends is time-consuming and requires specialized expertise.",
+    solution: "SalesX simplifies sales forecasting by using advanced analytics to process sales data and generate precise forecasts for the next 12 months. With user-friendly insights and actionable predictions, businesses can make data-driven decisions, optimize strategies, and stay ahead of the competition.",    
+    link : "https://kbbcoax7ztmutmnorjanlw.streamlit.app/"
   },
   {
-    title: "Project_2",
+    title: "Web Analytics AI",
     image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&fit=crop",
-    problem: "Inefficient stock management leading to lost sales, excess inventory, and stock issues: 41.5%",
-    solution: "Developed an inventory optimization tool using machine learning to forecast demand and optimize stock levels, resulting in a 35% reduction in stockouts and a 40% decrease in holding costs.",
-    link : "http://github.com"
+    problem: "Businesses often face challenges in extracting meaningful insights from complex web analytics datasets. Traditional tools require significant manual effort and expertise, leading to missed opportunities and inefficiencies in decision-making.",
+    solution: "Web Analytics X leverages AI-powered tools built on OpenAI's Swarm and Firecrawl frameworks to transform web analytics. The AI agent performs advanced data analysis, generates visualizations, and delivers actionable insights and reports. This empowers businesses to make smarter, data-driven decisions with ease and efficiency.",
+    link : "https://github.com/jaydiaz2012/AI_First_Day_6_AI_Swarm"
   },
   {
-    title: "Project_3",
+    title: "RouteX",
     image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&fit=crop",
-    problem: "Inefficient stock management leading to lost sales, excess inventory, and stock issues: 41.5%",
-    solution: "Developed an inventory optimization tool using machine learning to forecast demand and optimize stock levels, resulting in a 35% reduction in stockouts and a 40% decrease in holding costs.",
-    link : "http://github.com"
+    problem: "Managing delivery routes can be complex and inefficient, leading to increased costs, delays, and dissatisfied customers. Businesses often lack the tools to optimize routes effectively for time, cost, and resource utilization.",
+    solution: "RouteX streamlines delivery logistics by analyzing and optimizing delivery routes in real-time. Using advanced algorithms, the app reduces travel time, cuts costs, and ensures timely deliveries, enabling businesses to enhance operational efficiency and customer satisfaction.",
+    link : "https://k4dnuwvsmdrhzbd8g8rkvh.streamlit.app/"    
   },
   
 ];
