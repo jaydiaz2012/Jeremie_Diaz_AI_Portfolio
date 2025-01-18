@@ -33,10 +33,10 @@ const projects = [
     link : "https://k4dnuwvsmdrhzbd8g8rkvh.streamlit.app/"
   },
   {
-    title: "Project_4",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
+    title: "News Summarizer AI",
+    image: "https://github.com/jaydiaz2012/Jeremie_Diaz_AI_Portfolio/blob/jeremie_diaz/app/images/mr-cup-fabien-barral-Mwuod2cm8g4-unsplash.jpg?w=800&h=600&fit=crop",
+    problem: "Staying informed is challenging when news articles are lengthy and time-consuming to read. Busy individuals often struggle to keep up with the latest developments without dedicating significant time.",
+    solution: "News Summarizer AI simplifies news consumption by summarizing any article from a website link into concise, easy-to-read summaries. With NewsAI, users can stay updated quickly and efficiently, saving time while accessing the essential information they need.",
     tools: ["Python", "OpenAI", "LLM"],
     link : "https://uqzmn9u87fezujafkwvq7p.streamlit.app/" // Github Link make sure it has https://
   }
