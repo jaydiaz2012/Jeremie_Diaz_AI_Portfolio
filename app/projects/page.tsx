@@ -8,12 +8,13 @@ import { ArrowRight, Terminal } from 'lucide-react';
 // Add your Projects Here
 const projects = [
   {
-    title: "Project_1",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
+    title: "SalesX AI", 
+    image: "https://github.com/jaydiaz2012/Jeremie_Diaz_AI_Portfolio/blob/jeremie_diaz/app/images/s-o-c-i-a-l-c-u-t-7KkDiSs5UdQ-unsplash.jpg?w=800&h=600&fit=crop",
+    problem: "Businesses often struggle to make accurate sales forecasts, leading to inefficient planning and missed growth opportunities. Analyzing historical sales data and predicting future trends is time-consuming and requires specialized expertise.",
+    solution: "SalesX simplifies sales forecasting by using advanced analytics to process sales data and generate precise forecasts for the next 12 months. With user-friendly insights and actionable predictions, businesses can make data-driven decisions, optimize strategies, and stay ahead of the competition.",    
+    tools: ["Python", "OpenAI", "LLM", "Streamlit"],
+    link : "https://kbbcoax7ztmutmnorjanlw.streamlit.app/"
+    
   },
   {
     title: "Project_2",
