@@ -17,12 +17,12 @@ const projects = [
     
   },
   {
-    title: "Project_2",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
+    title: "Web Analytics AI",
+    image: "https://github.com/jaydiaz2012/Jeremie_Diaz_AI_Portfolio/blob/jeremie_diaz/app/images/andy-kelly-0E_vhMVqL9g-unsplash.jpg?w=800&h=600&fit=crop",
+    problem: "Businesses often face challenges in extracting meaningful insights from complex web analytics datasets. Traditional tools require significant manual effort and expertise, leading to missed opportunities and inefficiencies in decision-making.",
+    solution: "Web Analytics X leverages AI-powered tools built on OpenAI's Swarm and Firecrawl frameworks to transform web analytics. The AI agent performs advanced data analysis, generates visualizations, and delivers actionable insights and reports. This empowers businesses to make smarter, data-driven decisions with ease and efficiency.",
+    tools:["Python", "OpenAI", "LLM", "Swarm", "Streamlit"],  
+    link : "https://github.com/jaydiaz2012/AI_First_Day_6_AI_Swarm"
   },
   {
     title: "Project_3",
@@ -31,6 +31,11 @@ const projects = [
     solution: "Solution",
     tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
     link : "https://www.Github.com" // Github Link make sure it has https://
+
+    
+
+
+    
   },
   {
     title: "Project_4",
@@ -39,56 +44,9 @@ const projects = [
     solution: "Solution",
     tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
     link : "https://www.Github.com" // Github Link make sure it has https://
-  },
-  {
-    title: "Project_5",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
-  },
-  {
-    title: "Project_6",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
-  },
-  {
-    title: "Project_7",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
-  },
-  {
-    title: "Project_8",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
-  },
-  {
-    title: "Project_9",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
-  },
-  {
-    title: "Project_10",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
-  },
-  
+  }
+
+
 ];
 
 // Created by Danielle Bagaforo Meer
