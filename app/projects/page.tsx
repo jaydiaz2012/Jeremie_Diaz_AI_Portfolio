@@ -12,7 +12,7 @@ const projects = [
     image: "https://github.com/jaydiaz2012/Jeremie_Diaz_AI_Portfolio/blob/jeremie_diaz/app/images/s-o-c-i-a-l-c-u-t-7KkDiSs5UdQ-unsplash.jpg?w=800&h=600&fit=crop",
     problem: "Businesses often struggle to make accurate sales forecasts, leading to inefficient planning and missed growth opportunities. Analyzing historical sales data and predicting future trends is time-consuming and requires specialized expertise.",
     solution: "SalesX simplifies sales forecasting by using advanced analytics to process sales data and generate precise forecasts for the next 12 months. With user-friendly insights and actionable predictions, businesses can make data-driven decisions, optimize strategies, and stay ahead of the competition.",    
-    tools: ["Python", "OpenAI", "LLM", "Streamlit"],
+    tools: ["Python", "OpenAI", "LLM", "NLG", "Streamlit"],
     link : "https://kbbcoax7ztmutmnorjanlw.streamlit.app/"
     
   },
@@ -25,25 +25,20 @@ const projects = [
     link : "https://github.com/jaydiaz2012/AI_First_Day_6_AI_Swarm"
   },
   {
-    title: "Project_3",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
-
-    
-
-
-    
+    title: "RouteX",
+    image: "https://github.com/jaydiaz2012/Jeremie_Diaz_AI_Portfolio/blob/jeremie_diaz/app/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg?w=500&fit=crop",
+    problem: "Managing delivery routes can be complex and inefficient, leading to increased costs, delays, and dissatisfied customers. Businesses often lack the tools to optimize routes effectively for time, cost, and resource utilization.",
+    solution: "RouteX streamlines delivery logistics by analyzing and optimizing delivery routes in real-time. Using advanced algorithms, the app reduces travel time, cuts costs, and ensures timely deliveries, enabling businesses to enhance operational efficiency and customer satisfaction.",
+    tools:["Python", "OpenAI",  "LLM", "Streamlit"]
+    link : "https://k4dnuwvsmdrhzbd8g8rkvh.streamlit.app/"
   },
   {
     title: "Project_4",
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
     problem: "Problem",
     solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
+    tools: ["Python", "OpenAI", "LLM"],
+    link : "https://uqzmn9u87fezujafkwvq7p.streamlit.app/" // Github Link make sure it has https://
   }
 
 
