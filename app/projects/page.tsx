@@ -26,7 +26,7 @@ const projects = [
   },
   {
     title: "RouteX",
-    image: "https://github.com/jaydiaz2012/Jeremie_Diaz_AI_Portfolio/blob/jeremie_diaz/app/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg?w=500&fit=crop",
+    image: "https://github.com/jaydiaz2012/Jeremie_Diaz_AI_Portfolio/blob/jeremie_diaz/app/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg?w=800&h=600&fit=crop",
     problem: "Managing delivery routes can be complex and inefficient, leading to increased costs, delays, and dissatisfied customers. Businesses often lack the tools to optimize routes effectively for time, cost, and resource utilization.",
     solution: "RouteX streamlines delivery logistics by analyzing and optimizing delivery routes in real-time. Using advanced algorithms, the app reduces travel time, cuts costs, and ensures timely deliveries, enabling businesses to enhance operational efficiency and customer satisfaction.",
     tools:["Python", "OpenAI",  "LLM", "Streamlit"]
