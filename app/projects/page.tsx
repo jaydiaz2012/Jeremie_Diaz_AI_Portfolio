@@ -1,4 +1,4 @@
-// Created by Danielle Bagaforo Meer
+
 // Let's Connect : https://www.linkedin.com/in/jandiaz/
 import Image from 'next/image';
 import Link from 'next/link';
@@ -44,8 +44,7 @@ const projects = [
 
 ];
 
-// Created by Danielle Bagaforo Meer
-// Let's Connect : https://www.linkedin.com/in/algorexph/
+// Let's Connect : https://www.linkedin.com/in/jandiaz/
 export default function Projects() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-zinc-900 to-purple-950">
