@@ -14,70 +14,43 @@ import { Terminal } from 'lucide-react';
 // {name : [Skill] }
 const skillCategories = [
   {
-    title: "FEATURED",
+    title: "DATA SCIENCE",
     skills: [
-      { name: "React" },
-      { name: "CSS"},
-      { name: "HTML" },
-      { name: "JavaScript" },
-      { name: "Next.js" },
-      { name: "SASS" },
-      { name: "Flutter" }
+      { name: "Python" },
+      { name: "SQL"},
+      { name: "Data Visualization" },
+      { name: "Data Wrangling" },
+      { name: "Data Manipulation" }
     ]
   },
   {
-    title: "FRONTEND",
+    title: "NATURAL LANGUAGE PROCESSING",
     skills: [
-      { name: "React" },
-      { name: "CSS"},
-      { name: "HTML" },
-      { name: "JavaScript" },
-      { name: "Next.js" },
-      { name: "SASS" },
-      { name: "Flutter" }
+      { name: "NLTK" },
+      { name: "Hugging Face"},
+      { name: "Bag of Words" },
+      { name: "BERT" }
     ]
   },
   {
-    title: "BACKEND",
+    title: "MACHINE LEARNING",
     skills: [
-      { name: "React" },
-      { name: "CSS"},
-      { name: "HTML" },
-      { name: "JavaScript" },
-      { name: "Next.js" },
-      { name: "SASS" },
-      { name: "Flutter" }
+      { name: "sckit-learn" },
+      { name: "Supervised Learning"},
+      { name: "Clustering" },
+      { name: "k-Nearest Neighbors" },
+      { name: "A/B Testing" }
     ]
   }
 ];
 
 const technologies = {
   featured: [
-    { name: "React" },
-      { name: "CSS"},
+    { name: "Python" },
+      { name: "SQL"},
       { name: "HTML" },
-      { name: "JavaScript" },
-      { name: "Next.js" },
-      { name: "SASS" },
-      { name: "Flutter" }
-  ],
-  frontend: [
-    { name: "React" },
-    { name: "CSS"},
-    { name: "HTML" },
-    { name: "JavaScript" },
-    { name: "Next.js" },
-    { name: "SASS" },
-    { name: "Flutter" }
-  ],
-  backend: [
-    { name: "React" },
-      { name: "CSS"},
-      { name: "HTML" },
-      { name: "JavaScript" },
-      { name: "Next.js" },
-      { name: "SASS" },
-      { name: "Flutter" }
+      { name: "Machine Learning" },
+      { name: "Google Cloud Platform" }
   ]
 };
 
@@ -118,7 +91,6 @@ export default function Skills() {
                     key={skillIndex}
                     className="py-2 sm:py-3 px-3 sm:px-4 bg-black/40 hover:bg-black/60 border border-purple-500/20 hover:border-purple-500/40 text-white transition-all duration-300 text-sm sm:text-base flex items-center justify-center"
                   >
-                    <span className="mr-2 text-base sm:text-lg">{skill.icon}</span>
                     {skill.name}
                   </Badge>
                 ))}
@@ -144,7 +116,6 @@ export default function Skills() {
                       key={index}
                       className="flex items-center justify-center p-3 sm:p-4 bg-black/40 border border-purple-500/20 hover:border-purple-500/40 rounded-lg transition-all duration-300 gap-2"
                     >
-                      <span className="text-xl sm:text-2xl">{tech.icon}</span>
                       <span className="text-white font-mono text-sm sm:text-base">{tech.name}</span>
                     </div>
                   ))}
